@@ -1,0 +1,9 @@
+{
+  "symbols": ["BTCUSDT", "ETHUSDT", "SOLUSDT"],
+  "interval": "15m",
+  "check_every_min": 15,
+  "telegram": {
+    "bot_token": "7830721236:AAF9cou1qUDyWqC8xC3uB0dhKEsmm6gA9gA",
+    "chat_id": "6676421657"
+  }
+}
